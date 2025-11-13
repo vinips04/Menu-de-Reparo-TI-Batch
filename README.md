@@ -1,10 +1,10 @@
-# 🧰 Menu de Ferramentas para Reparo e Diagnostico do Windows (.bat)
+# Menu de Ferramentas para Reparo e Diagnostico do Windows (.bat)
 
 Script `.bat` para automação de tarefas de **suporte técnico, diagnóstico e manutenção de sistemas Windows**.
 
 <img width="379" height="302" alt="image" src="https://github.com/user-attachments/assets/ea1cf56c-3695-49c9-b420-f0dceb5bcbd3" />
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Verificar e reparar disco (CHKDSK)
 - Reparo de arquivos de sistema (SFC)
 - Limpeza de arquivos temporários
@@ -15,29 +15,30 @@ Script `.bat` para automação de tarefas de **suporte técnico, diagnóstico e 
 - Informações do sistema
 - Execução de comandos personalizados
 
-## 🧩 Stack
+## Stack Utilizadas
 Batch Script • Windows CMD • Ferramentas nativas do sistema
 
-## 🧠 Objetivo
+## Objetivo
 Automatizar tarefas comuns de suporte técnico, reduzindo o tempo de diagnóstico e aumentando a eficiência no atendimento.
 
-## 📂 Estrutura
+## Estrutura
 `Menu-de-Ferramentas-para-Reparo-do-Windows/`
 
 `/docs/evidencias` `/scripts/menu_de_ferramentas.bat` 
 
-## 📊 Evidências
+## Evidências
 Capturas de tela disponíveis em `/docs/evidencias/`.
 
-## 🚀 Como utilizar
+## Como utilizar o script
 
 1. **Baixe** ou **clone** o repositório:
-   git clone [https://github.com/vinips04/Menu-Reparo-TI-Batch.git](https://github.com/vinips04/Menu-Reparo-TI-Batch.git)
+   git clone [https://github.com/vinips04/Menu-de-Ferramentas-para-Windows.git](https://github.com/vinips04/Menu-de-Ferramentas-para-Windows.git)
 
 2. **Acesse** a pasta do projeto:
-   cd Menu-de-Ferramentas-para-Reparo-do-Windows
+   cd Menu-de-Ferramentas-para-Windows-main
+   \Menu-de-Ferramentas-para-Windows-main\scripts
 
-3. **Execute o script como Administrador:**
+4. **Execute o script como Administrador:**
 
 * Clique com o botão direito em `menu_de_ferramentas.bat`
 * Selecione **“Executar como administrador”**
