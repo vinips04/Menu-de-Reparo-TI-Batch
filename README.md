@@ -20,17 +20,16 @@ Batch Script • Windows CMD • Ferramentas nativas do sistema
 Automatizar tarefas comuns de suporte técnico, reduzindo o tempo de diagnóstico e aumentando a eficiência no atendimento.
 
 ## 📂 Estrutura
-Menu-Reparo-TI-Batch/
-├── docs/
-│   ├── prints/
-├── scripts/
-│   └── menu_reparo.bat
-├── README.md
+`Menu-Reparo-TI-Batch/`
+
+`/docs/evidencias` `/scripts/menu_reparo.bat` 
 
 ## 📊 Evidências
-Capturas de tela disponíveis em `/docs/prints/`.
+Capturas de tela disponíveis em `/docs/evidencias/`.
 
 ## 👨‍💻 Autor
 **Vinicius Pereira**  
+
 Analista de TI Júnior | Infraestrutura e Suporte Técnico  
+
 [LinkedIn](https://www.linkedin.com/in/viniciuspereira27/) | [GitHub](https://github.com/vinips04)
