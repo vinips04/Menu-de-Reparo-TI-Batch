@@ -21,12 +21,11 @@ Automatizar tarefas comuns de suporte técnico, reduzindo o tempo de diagnóstic
 
 ## 📂 Estrutura
 Menu-Reparo-TI-Batch/
-├─ docs/
-│ ├─ prints/
-│ └─ relatorio.md
-├─ scripts/
-│ └─ menu_reparo.bat
-└─ README.md
+├── docs/
+│   ├── prints/
+├── scripts/
+│   └── menu_reparo.bat
+├── README.md
 
 ## 📊 Evidências
 Capturas de tela disponíveis em `/docs/prints/`.
