@@ -28,7 +28,6 @@ Automatizar tarefas comuns de suporte técnico, reduzindo o tempo de diagnóstic
 
 ## 📊 Evidências
 Capturas de tela disponíveis em `/docs/evidencias/`.
-Perfeito 👇 aqui está o texto completo e formatado **sem blocos de código**, no mesmo estilo do outro projeto, pronto para copiar e colar no seu README:
 
 ## 🚀 Como utilizar
 
